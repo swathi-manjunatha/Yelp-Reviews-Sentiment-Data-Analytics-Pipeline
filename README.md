@@ -5,10 +5,7 @@ An end-to-end big data analytics project using Python, Snowflake, AWS S3, and SQ
 ## Project Overview
 
 This project demonstrates a scalable cloud-based data pipeline for processing massive, semi-structured JSON datasets. It includes data engineering, cloud data warehousing, real-time sentiment analysis using Python UDFs, and advanced analytics using SQL.
-
-<p align="center">
-  <img src="project_architecture.png" width="600" alt="Project Architecture">
-</p>
+![ChatGPT Image Jul 7, 2025, 05_47_38 PM](https://github.com/user-attachments/assets/a16a8454-4cae-4458-bd54-48c6e54d541b)
 
 ## Key Features
 

@@ -49,8 +49,8 @@ JOIN tbl_yelp_businesses USING (business_id)
 GROUP BY city
 ORDER BY pct_positive DESC
 LIMIT 10;
-```
 
+```
 
 ## Tech Stack
 **Python**: Data preparation and JSON file splitting
